@@ -1,0 +1,78 @@
+body {
+  margin: 0;
+}
+
+.banner {
+  background-color: rgba(61, 61, 109, 0.644) !important;
+  color: white;
+}
+.banner-set {
+  height: 100%;
+  float: left;
+  width: 90%;
+}
+.row {
+  height: 50px;
+  padding: 1.5% 2% 0 1.5%;
+}
+.avatar {
+  border: 3px solid black;
+}
+
+.user-col {
+  float: left !important;
+  width: 30% !important;
+}
+h2 {
+  margin-top: 0px;
+  padding-top: 0px;
+}
+
+.user-profile {
+  border: 2px solid black;
+  margin-left: 22%;
+  margin-top: 10%;
+  text-align: center;
+  padding: 10px;
+  background-color: rgb(174, 174, 245);
+  width: 80%;
+  border-radius: 5%;
+}
+
+.email {
+  font-size: 15px;
+  overflow-wrap: anywhere;
+}
+.name {
+  font-size: 15px;
+}
+button {
+  background-color: lightblue;
+  padding: 10px 10px;
+  font-weight: bold;
+  float: right;
+  border: none;
+  border: solid black;
+}
+button:hover {
+  background-color: orange;
+  color: black;
+}
+.button-set {
+  height: 100%;
+  float: left;
+  width: 10%;
+}
+.load {
+  width: 20%;
+  margin-left: 40%;
+  margin-top: 10%;
+}
+.load-header {
+  color: white;
+  text-align: center;
+}
+p {
+  text-align: left;
+  font-size: 15px;
+}
